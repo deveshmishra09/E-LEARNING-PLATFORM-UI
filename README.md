@@ -85,7 +85,4 @@ Accessibility considerations
 Performance optimization strategies
 
 #OUTPUT
-
-Progress Tracking: Visual indicators for completed lessons
-
-Responsive Layout: Flex-based container adapting to different viewports
+<img width="1881" height="915" alt="Image" src="https://github.com/user-attachments/assets/6ffc9cf8-27c4-4a27-96e6-88080c9af864" />
